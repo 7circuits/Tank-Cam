@@ -1,7 +1,6 @@
 /*
  * Slots adjustment with esp_http_server.h in 
 C:\Users\YourName\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\tools\sdk\include\esp_http_server
-
 */
 
 #include "esp_http_server.h"
