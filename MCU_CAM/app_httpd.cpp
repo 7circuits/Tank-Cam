@@ -1,14 +1,12 @@
 /*
  * Slots einstellen mit esp_http_server.h in 
 C:\Users\balu\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\tools\sdk\include\esp_http_server
-
 */
 
 #include "esp_http_server.h"
 #include "esp_timer.h"
 #include "esp_camera.h"
 #include "img_converters.h"
-//#include "camera_index.h"
 #include "Arduino.h"
 
 extern int gpLb;
