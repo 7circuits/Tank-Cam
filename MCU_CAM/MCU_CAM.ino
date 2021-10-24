@@ -5,10 +5,9 @@
 
 #define CAMERA_MODEL_AI_THINKER
 
-const char* ssid = "DiddiKong"; //"Guerkan Unitymedia"
-const char* password = "69631152939380156861"; //"Q4wzQbvstt4d"
-const char* hostname = "EmiliasTankCam";
-//WiFiServer server(80);
+const char* ssid = "YourSSID";
+const char* password = "YourPassword";
+const char* hostname = "YourTankName";
 
 #if defined(CAMERA_MODEL_AI_THINKER)
 #define PWDN_GPIO_NUM     32
