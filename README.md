@@ -15,3 +15,6 @@ and
 
 Use MCU_CAR for programming the Arduino including Motorcontroller
 
+Configure SSID, PW, IP in the source code
+
+Optional: Configure slot for commands to your Arduino
